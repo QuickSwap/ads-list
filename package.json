@@ -1,0 +1,27 @@
+{
+  "name": "quickswap-ads-list",
+  "version": "1.0.2",
+  "description": "◦ The Quickswap ads list",
+  "main": "build/quickswap-ads-list.json",
+  "scripts": {
+    "test": "mocha",
+    "build": "rimraf build && mkdir -p build && node src/write.js > build/quickswap-ads-list.json",
+    "prepublishOnly": "npm run build"
+  },
+  "files": [
+    "build/quickswap-ads-list.json"
+  ],
+  "keywords": [
+    "quickswap",
+    "default",
+    "ads",
+    "list"
+  ],
+  "license": "GPL-3.0-or-later",
+  "devDependencies": {
+    "ajv": "^6.12.3",
+    "chai": "^4.2.0",
+    "mocha": "^8.0.1",
+    "rimraf": "^3.0.2"
+  }
+}
