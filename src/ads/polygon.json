@@ -2,74 +2,134 @@
   {
     "1": [
       {
-        "desktopURL": "https://dummyimage.com/352x80/000000/fff&text=slot01-1",
-        "mobileURL": "https://dummyimage.com/320x50/000000/fff&text=slot01-1",
-        "link": "https://quickswap.exchange"
+        "desktopURL": "https://i.imgur.com/8Md9PAq.png",
+        "mobileURL": "https://i.imgur.com/pJYF8cS.png",
+        "link": "https://dogechain.quickswap.exchange/#/swap"
       },
       {
-        "desktopURL": "https://dummyimage.com/352x80/000000/fff&text=slot01-2",
-        "mobileURL": "https://dummyimage.com/320x50/000000/fff&text=slot01-2",
-        "link": "https://dogechain.quickswap.exchange"
+        "desktopURL": "https://i.imgur.com/Zc0boWW.png",
+        "mobileURL": "https://i.imgur.com/r6ASQyM.png",
+        "link": "https://www.mai.finance"
+      },
+      {
+        "desktopURL": "https://i.imgur.com/02EjkBe.jpg",
+        "mobileURL": "https://i.imgur.com/IcTJdHQ.jpg",
+        "link": "https://www.affyn.com"
+      },
+      {
+        "desktopURL": "https://i.imgur.com/CnjFsll.png",
+        "mobileURL": "https://i.imgur.com/nqIbBH9.png",
+        "link": "https://www.dogira.net/"
       }
     ],
     "2": [
       {
-        "desktopURL": "https://dummyimage.com/352x80/000000/fff&text=slot02-1",
-        "mobileURL": "https://dummyimage.com/320x50/000000/fff&text=slot02-1",
-        "link": "https://quickswap.exchange"
+        "desktopURL": "https://i.imgur.com/8Md9PAq.png",
+        "mobileURL": "https://i.imgur.com/pJYF8cS.png",
+        "link": "https://dogechain.quickswap.exchange/#/swap"
       },
       {
-        "desktopURL": "https://dummyimage.com/352x80/000000/fff&text=slot02-2",
-        "mobileURL": "https://dummyimage.com/320x50/000000/fff&text=slot02-2",
-        "link": "https://dogechain.quickswap.exchange"
+        "desktopURL": "https://i.imgur.com/Zc0boWW.png",
+        "mobileURL": "https://i.imgur.com/r6ASQyM.png",
+        "link": "https://www.mai.finance"
+      },
+      {
+        "desktopURL": "https://i.imgur.com/02EjkBe.jpg",
+        "mobileURL": "https://i.imgur.com/IcTJdHQ.jpg",
+        "link": "https://www.affyn.com"
+      },
+      {
+        "desktopURL": "https://i.imgur.com/CnjFsll.png",
+        "mobileURL": "https://i.imgur.com/nqIbBH9.png",
+        "link": "https://www.dogira.net/"
       }
     ],
     "3": [
       {
-        "desktopURL": "https://dummyimage.com/1136x90/000000/fff&text=slot03-1",
-        "mobileURL": "https://dummyimage.com/320x50/000000/fff&text=slot03-1",
-        "link": "https://quickswap.exchange"
+        "desktopURL": "https://i.imgur.com/HL7Pnkm.png",
+        "mobileURL": "https://i.imgur.com/pJYF8cS.png",
+        "link": "https://dogechain.quickswap.exchange/#/swap"
       },
       {
-        "desktopURL": "https://dummyimage.com/1136x90/000000/fff&text=slot03-2",
-        "mobileURL": "https://dummyimage.com/320x50/000000/fff&text=slot03-2",
-        "link": "https://dogechain.quickswap.exchange"
+        "desktopURL": "https://i.imgur.com/HvSVSlT.png",
+        "mobileURL": "https://i.imgur.com/r6ASQyM.png",
+        "link": "https://www.mai.finance"
+      },
+      {
+        "desktopURL": "https://i.imgur.com/rk67XSB.jpg",
+        "mobileURL": "https://i.imgur.com/IcTJdHQ.jpg",
+        "link": "https://www.affyn.com"
+      },
+      {
+        "desktopURL": "https://i.imgur.com/uKe55M5.png",
+        "mobileURL": "https://i.imgur.com/nqIbBH9.png",
+        "link": "https://www.dogira.net/"
       }
     ],
     "4": [
       {
-        "desktopURL": "https://dummyimage.com/352x80/000000/fff&text=slot04-1",
-        "mobileURL": "https://dummyimage.com/320x50/000000/fff&text=slot04-1",
-        "link": "https://quickswap.exchange"
+        "desktopURL": "https://i.imgur.com/8Md9PAq.png",
+        "mobileURL": "https://i.imgur.com/pJYF8cS.png",
+        "link": "https://dogechain.quickswap.exchange/#/swap"
       },
       {
-        "desktopURL": "https://dummyimage.com/352x80/000000/fff&text=slot04-2",
-        "mobileURL": "https://dummyimage.com/320x50/000000/fff&text=slot04-2",
-        "link": "https://dogechain.quickswap.exchange"
+        "desktopURL": "https://i.imgur.com/Zc0boWW.png",
+        "mobileURL": "https://i.imgur.com/r6ASQyM.png",
+        "link": "https://www.mai.finance"
+      },
+      {
+        "desktopURL": "https://i.imgur.com/02EjkBe.jpg",
+        "mobileURL": "https://i.imgur.com/IcTJdHQ.jpg",
+        "link": "https://www.affyn.com"
+      },
+      {
+        "desktopURL": "https://i.imgur.com/fZTdydG.png",
+        "mobileURL": "https://i.imgur.com/nqIbBH9.png",
+        "link": "https://www.dogira.net/"
       }
     ],
     "5": [
       {
-        "desktopURL": "https://dummyimage.com/1136x90/000000/fff&text=slot05-1",
-        "mobileURL": "https://dummyimage.com/320x50/000000/fff&text=slot05-1",
-        "link": "https://quickswap.exchange"
+        "desktopURL": "https://i.imgur.com/HL7Pnkm.png",
+        "mobileURL": "https://i.imgur.com/pJYF8cS.png",
+        "link": "https://dogechain.quickswap.exchange/#/swap"
       },
       {
-        "desktopURL": "https://dummyimage.com/1136x90/000000/fff&text=slot05-2",
-        "mobileURL": "https://dummyimage.com/320x50/000000/fff&text=slot05-2",
-        "link": "https://dogechain.quickswap.exchange"
+        "desktopURL": "https://i.imgur.com/HvSVSlT.png",
+        "mobileURL": "https://i.imgur.com/r6ASQyM.png",
+        "link": "https://www.mai.finance"
+      },
+      {
+        "desktopURL": "https://i.imgur.com/rk67XSB.jpg",
+        "mobileURL": "https://i.imgur.com/IcTJdHQ.jpg",
+        "link": "https://www.affyn.com"
+      },
+      {
+        "desktopURL": "https://i.imgur.com/uKe55M5.png",
+        "mobileURL": "https://i.imgur.com/nqIbBH9.png",
+        "link": "https://www.dogira.net/"
       }
     ],
     "6": [
       {
-        "desktopURL": "https://dummyimage.com/1136x90/000000/fff&text=slot06-1",
-        "mobileURL": "https://dummyimage.com/320x50/000000/fff&text=slot06-1",
-        "link": "https://quickswap.exchange"
+        "desktopURL": "https://i.imgur.com/HL7Pnkm.png",
+        "mobileURL": "https://i.imgur.com/pJYF8cS.png",
+        "link": "https://dogechain.quickswap.exchange/#/swap"
       },
       {
-        "desktopURL": "https://dummyimage.com/1136x90/000000/fff&text=slot06-2",
-        "mobileURL": "https://dummyimage.com/320x50/000000/fff&text=slot06-2",
-        "link": "https://dogechain.quickswap.exchange"
+        "desktopURL": "https://i.imgur.com/HvSVSlT.png",
+        "mobileURL": "https://i.imgur.com/r6ASQyM.png",
+        "link": "https://www.mai.finance"
+      },
+      {
+        "desktopURL": "https://i.imgur.com/rk67XSB.jpg",
+        "mobileURL": "https://i.imgur.com/IcTJdHQ.jpg",
+        "link": "https://www.affyn.com"
+      },
+      {
+        "desktopURL": "https://i.imgur.com/uKe55M5.png",
+        "mobileURL": "https://i.imgur.com/nqIbBH9.png",
+        "link": "https://www.dogira.net/"
       }
     ]
   }
