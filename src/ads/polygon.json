@@ -4,12 +4,17 @@
       {
         "desktopURL": "https://i.imgur.com/02EjkBe.jpg",
         "mobileURL": "https://i.imgur.com/IcTJdHQ.jpg",
-        "link": "https://alphaevent.affyn.com/"
+        "link": "https://alphaevent.affyn.com/?utm_source=quickswap&utm_medium=cpc&utm_campaign=track_ads&utm_id=1&utm_content=alphaevent"
       },
       {
         "desktopURL": "https://i.imgur.com/CnjFsll.png",
         "mobileURL": "https://i.imgur.com/nqIbBH9.png",
         "link": "https://gooeys.io"
+      },
+      {
+        "desktopURL": "https://i.imgur.com/dFOjWYw.png",
+        "mobileURL": "https://i.imgur.com/7IyvBzv.png",
+        "link": "https://quickswap.bhavish.fi/"
       }
     ],
     "2": [
@@ -17,6 +22,16 @@
         "desktopURL": "https://i.imgur.com/8Md9PAq.png",
         "mobileURL": "https://i.imgur.com/pJYF8cS.png",
         "link": "https://dogechain.quickswap.exchange/#/swap"
+      },
+      {
+        "desktopURL": "https://i.imgur.com/dFOjWYw.png",
+        "mobileURL": "https://i.imgur.com/7IyvBzv.png",
+        "link": "https://quickswap.bhavish.fi/"
+      },
+      {
+        "desktopURL": "https://i.imgur.com/v5LQ1pH.png",
+        "mobileURL": "https://i.imgur.com/1LXQB37.png",
+        "link": "https://ascendex.com/en/global-digital-asset-platform"
       }
     ],
     "3": [
@@ -24,18 +39,33 @@
         "desktopURL": "https://i.imgur.com/HL7Pnkm.png",
         "mobileURL": "https://i.imgur.com/pJYF8cS.png",
         "link": "https://dogechain.quickswap.exchange/#/swap"
+      },
+      {
+        "desktopURL": "https://i.imgur.com/2sN65PV.png",
+        "mobileURL": "https://i.imgur.com/7IyvBzv.png",
+        "link": "https://quickswap.bhavish.fi/"
+      },
+      {
+        "desktopURL": "https://i.imgur.com/h7Wc78L.png",
+        "mobileURL": "https://i.imgur.com/1LXQB37.png",
+        "link": "https://ascendex.com/en/global-digital-asset-platform"
       }
     ],
     "4": [
       {
         "desktopURL": "https://i.imgur.com/02EjkBe.jpg",
         "mobileURL": "https://i.imgur.com/IcTJdHQ.jpg",
-        "link": "https://alphaevent.affyn.com/"
+        "link": "https://alphaevent.affyn.com/?utm_source=quickswap&utm_medium=cpc&utm_campaign=track_ads&utm_id=1&utm_content=alphaevent"
       },
       {
         "desktopURL": "https://i.imgur.com/fZTdydG.png",
         "mobileURL": "https://i.imgur.com/nqIbBH9.png",
         "link": "https://gooeys.io"
+      },
+      {
+        "desktopURL": "https://i.imgur.com/dFOjWYw.png",
+        "mobileURL": "https://i.imgur.com/7IyvBzv.png",
+        "link": "https://quickswap.bhavish.fi/"
       }
     ],
     "5": [
@@ -43,18 +73,33 @@
         "desktopURL": "https://i.imgur.com/HL7Pnkm.png",
         "mobileURL": "https://i.imgur.com/pJYF8cS.png",
         "link": "https://dogechain.quickswap.exchange/#/swap"
+      },
+      {
+        "desktopURL": "https://i.imgur.com/2sN65PV.png",
+        "mobileURL": "https://i.imgur.com/7IyvBzv.png",
+        "link": "https://quickswap.bhavish.fi/"
+      },
+      {
+        "desktopURL": "https://i.imgur.com/h7Wc78L.png",
+        "mobileURL": "https://i.imgur.com/1LXQB37.png",
+        "link": "https://ascendex.com/en/global-digital-asset-platform"
       }
     ],
     "6": [
       {
         "desktopURL": "https://i.imgur.com/rk67XSB.jpg",
         "mobileURL": "https://i.imgur.com/IcTJdHQ.jpg",
-        "link": "https://alphaevent.affyn.com/"
+        "link": "https://alphaevent.affyn.com/?utm_source=quickswap&utm_medium=cpc&utm_campaign=track_ads&utm_id=1&utm_content=alphaevent"
       },
       {
         "desktopURL": "https://i.imgur.com/uKe55M5.png",
         "mobileURL": "https://i.imgur.com/nqIbBH9.png",
         "link": "https://gooeys.io"
+      },
+      {
+        "desktopURL": "https://i.imgur.com/2sN65PV.png",
+        "mobileURL": "https://i.imgur.com/7IyvBzv.png",
+        "link": "https://quickswap.bhavish.fi/"
       }
     ]
   }
