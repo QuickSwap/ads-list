@@ -56,6 +56,11 @@
           "desktopURL": "https://i.imgur.com/h7Wc78L.png",
           "mobileURL": "https://i.imgur.com/1LXQB37.png",
           "link": "https://ascendex.com/en/global-digital-asset-platform"
+        },
+        {
+          "desktopURL": "https://i.imgur.com/Jwjw1JI.jpg",
+          "mobileURL": "https://i.imgur.com/4cxFI3E.jpg",
+          "link": "https://www.hanzommorpg.com/"
         }
       ],
       "dragons": [
@@ -87,14 +92,14 @@
           "link": "https://dogechain.quickswap.exchange/#/swap"
         },
         {
-          "desktopURL": "https://i.imgur.com/2sN65PV.png",
-          "mobileURL": "https://i.imgur.com/7IyvBzv.png",
-          "link": "https://quickswap.bhavish.fi/"
-        },
-        {
           "desktopURL": "https://i.imgur.com/h7Wc78L.png",
           "mobileURL": "https://i.imgur.com/1LXQB37.png",
           "link": "https://ascendex.com/en/global-digital-asset-platform"
+        },
+        {
+          "desktopURL": "https://i.imgur.com/Jwjw1JI.jpg",
+          "mobileURL": "https://i.imgur.com/4cxFI3E.jpg",
+          "link": "https://www.hanzommorpg.com/"
         }
       ],
       "analytics": [
@@ -121,7 +126,7 @@
       ]
     },
     "config": {
-      "autoPlaySpeed": 20000
+      "autoPlaySpeed": 17500
     }
   }
 ]
