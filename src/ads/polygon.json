@@ -39,6 +39,11 @@
           "desktopURL": "https://i.imgur.com/v5LQ1pH.png",
           "mobileURL": "https://i.imgur.com/1LXQB37.png",
           "link": "https://ascendex.com/en/global-digital-asset-platform"
+        },
+        {
+          "desktopURL": "https://i.imgur.com/5k8e7na.png",
+          "mobileURL": "https://i.imgur.com/cQfd3cj.png",
+          "link": "https://quickswap.exchange/#/swap?currency0=0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174&currency1=0x346404079b3792a6c548B072B9C4DDdFb92948d5"
         }
       ],
       "farms": [
@@ -61,6 +66,11 @@
           "desktopURL": "https://i.imgur.com/Jwjw1JI.jpg",
           "mobileURL": "https://i.imgur.com/4cxFI3E.jpg",
           "link": "https://www.hanzommorpg.com/"
+        },
+        {
+          "desktopURL": "https://i.imgur.com/AxcL5m8.png",
+          "mobileURL": "https://i.imgur.com/cQfd3cj.png",
+          "link": "https://quickswap.exchange/#/swap?currency0=0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174&currency1=0x346404079b3792a6c548B072B9C4DDdFb92948d5"
         }
       ],
       "dragons": [
@@ -126,7 +136,7 @@
       ]
     },
     "config": {
-      "autoPlaySpeed": 17500
+      "autoPlaySpeed": 16000
     }
   }
 ]
