@@ -16,13 +16,7 @@
           "desktopURL": "https://i.imgur.com/8fO7A5a.jpg",
           "mobileURL": "https://i.imgur.com/AsVGhFh.jpg",
           "link": "https://quickswap.exchange/#/lend"
-        },
-        {
-          "desktopURL": "https://i.imgur.com/7feEo42.png",
-          "mobileURL": "https://i.imgur.com/EEZDh9e.png",
-          "link": "https://beta.quickswap.exchange/#/swap"
         }
-
       ],
       "pools": [
         {
@@ -93,11 +87,6 @@
           "desktopURL": "https://i.imgur.com/8fO7A5a.jpg",
           "mobileURL": "https://i.imgur.com/AsVGhFh.jpg",
           "link": "https://quickswap.exchange/#/lend"
-        },
-        {
-          "desktopURL": "https://i.imgur.com/7feEo42.png",
-          "mobileURL": "https://i.imgur.com/EEZDh9e.png",
-          "link": "https://beta.quickswap.exchange/#/swap"
         }
       ],
       "lend": [
@@ -132,11 +121,6 @@
           "desktopURL": "https://i.imgur.com/ru3F2QN.png",
           "mobileURL": "https://i.imgur.com/AsVGhFh.jpg",
           "link": "https://quickswap.exchange/#/lend"
-        },
-        {
-          "desktopURL": "https://i.imgur.com/WuiBFmS.png",
-          "mobileURL": "https://i.imgur.com/EEZDh9e.png",
-          "link": "https://beta.quickswap.exchange/#/swap"
         }
       ]
     },
