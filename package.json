@@ -1,6 +1,6 @@
 {
   "name": "quickswap-ads-list",
-  "version": "1.0.16",
+  "version": "1.0.17",
   "description": "◦ The Quickswap ads list",
   "main": "build/quickswap-ads-list.json",
   "scripts": {
