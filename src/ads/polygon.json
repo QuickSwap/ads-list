@@ -23,16 +23,16 @@
           "link": "http://marketplace.assetmantle.one"
         },
         {
-          "desktopURL": "https://i.imgur.com/9V8KkoU.png",
-          "mobileURL": "https://i.imgur.com/WWRlpR5.png",
-          "link": "https://quickswap.bhavish.fi/"
+          "desktopURL": "https://i.imgur.com/xZeuJu4.png",
+          "mobileURL": "https://i.imgur.com/PQhv6R2.png",
+          "link": "https://quickswap.exchange/#/farm"
         }
       ],
       "pools": [
         {
-          "desktopURL": "https://i.imgur.com/8Md9PAq.png",
-          "mobileURL": "https://i.imgur.com/pJYF8cS.png",
-          "link": "https://dogechain.quickswap.exchange/#/swap"
+          "desktopURL": "https://i.imgur.com/xZeuJu4.png",
+          "mobileURL": "https://i.imgur.com/PQhv6R2.png",
+          "link": "https://quickswap.exchange/#/farm"
         },
         {
           "desktopURL": "https://i.imgur.com/GQRMILu.png",
@@ -104,9 +104,9 @@
           "link": "http://marketplace.assetmantle.one"
         },
         {
-          "desktopURL": "https://i.imgur.com/9V8KkoU.png",
-          "mobileURL": "https://i.imgur.com/WWRlpR5.png",
-          "link": "https://quickswap.bhavish.fi/"
+          "desktopURL": "https://i.imgur.com/xZeuJu4.png",
+          "mobileURL": "https://i.imgur.com/PQhv6R2.png",
+          "link": "https://quickswap.exchange/#/farm"
         }
       ],
       "lend": [
@@ -138,9 +138,9 @@
           "link": "https://quickswap.spritz.finance/signup?utm_source=QuickSwap&utm_medium=Banner"
         },
         {
-          "desktopURL": "https://i.imgur.com/qsnu3nY.png",
-          "mobileURL": "https://i.imgur.com/WWRlpR5.png",
-          "link": "https://quickswap.bhavish.fi/"
+          "desktopURL": "https://i.imgur.com/fdU2A0e.png",
+          "mobileURL": "https://i.imgur.com/PQhv6R2.png",
+          "link": "https://quickswap.exchange/#/farm"
         }
       ]
     },
