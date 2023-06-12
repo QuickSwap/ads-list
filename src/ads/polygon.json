@@ -3,107 +3,37 @@
     "data": {
       "swap": [
         {
-          "desktopURL": "https://i.imgur.com/q9FiHzW.png",
-          "mobileURL": "https://i.imgur.com/x6FpPXk.png",
-          "link": "https://www.huobi.com/en-us/v/register/double-invite/?inviter_id=11345710&invite_code=qy4m7223"
-        },
-        {
-          "desktopURL": "https://i.imgur.com/FDo4a8Y.png",
-          "mobileURL": "https://i.imgur.com/izyAz68.png",
-          "link": "https://quickswap.spritz.finance/signup?utm_source=QuickSwap&utm_medium=Banner"
-        },
-        {
-          "desktopURL": "https://i.imgur.com/Ww3FkC2.png",
-          "mobileURL": "https://i.imgur.com/S9NQIM7.png",
-          "link": "https://quickswap.exchange/#/pools?currency0=ETH&currency1=0xc2A45FE7d40bCAc8369371B08419DDAFd3131b4a"
-        },
-        {
-          "desktopURL": "https://i.imgur.com/xZeuJu4.png",
-          "mobileURL": "https://i.imgur.com/PQhv6R2.png",
-          "link": "https://quickswap.exchange/#/farm"
+          "desktopURL": "",
+          "mobileURL": "",
+          ""
         }
       ],
       "pools": [
         {
-          "desktopURL": "https://i.imgur.com/xZeuJu4.png",
-          "mobileURL": "https://i.imgur.com/PQhv6R2.png",
-          "link": "https://quickswap.exchange/#/farm"
-        },
-        {
-          "desktopURL": "https://i.imgur.com/UwjefSu.png",
-          "mobileURL": "https://i.imgur.com/1zc9VIi.png",
-          "link": "https://quickswap.spritz.finance/signup?utm_source=QuickSwap&utm_medium=Banner"
-        },
-        {
-          "desktopURL": "https://i.imgur.com/q9FiHzW.png",
-          "mobileURL": "https://i.imgur.com/x6FpPXk.png",
-          "link": "https://www.huobi.com/en-us/v/register/double-invite/?inviter_id=11345710&invite_code=qy4m7223"
-        },
-       {
-          "desktopURL": "https://i.imgur.com/Ww3FkC2.png",
-          "mobileURL": "https://i.imgur.com/S9NQIM7.png",
-          "link": "https://quickswap.exchange/#/pools?currency0=ETH&currency1=0xc2A45FE7d40bCAc8369371B08419DDAFd3131b4a"
+          "desktopURL": "",
+          "mobileURL": "",
+          "link": ""
         }
       ],
       "farms": [
         {
-          "desktopURL": "https://i.imgur.com/zIe5VBz.png",
-          "mobileURL": "https://i.imgur.com/ehoUhlj.png",
-          "link": "https://versagames.io/quickswap-gaming-hub"
-        },
-        {
-          "desktopURL": "https://i.imgur.com/PfYXNYN.png",
-          "mobileURL": "https://i.imgur.com/1zc9VIi.png",
-          "link": "https://quickswap.spritz.finance/signup?utm_source=QuickSwap&utm_medium=Banner"
-        },
-        {
-          "desktopURL": "https://i.imgur.com/ZFTVdoH.png",
-          "mobileURL": "https://i.imgur.com/x6FpPXk.png",
-          "link": "https://www.huobi.com/en-us/v/register/double-invite/?inviter_id=11345710&invite_code=qy4m7223"
-        },
-        {
-          "desktopURL": "https://i.imgur.com/KcgisUn.png",
-          "mobileURL": "https://i.imgur.com/S9NQIM7.png",
-          "link": "https://quickswap.exchange/#/pools?currency0=ETH&currency1=0xc2A45FE7d40bCAc8369371B08419DDAFd3131b4a"
+          "desktopURL": "",
+          "mobileURL": "",
+          "link": ""
         }
       ],
       "dragons": [
         {
-          "desktopURL": "https://i.imgur.com/Ww3FkC2.png",
-          "mobileURL": "https://i.imgur.com/S9NQIM7.png",
-          "link": "https://quickswap.exchange/#/pools?currency0=ETH&currency1=0xc2A45FE7d40bCAc8369371B08419DDAFd3131b4a"
-        },
-        {
-          "desktopURL": "https://i.imgur.com/q9FiHzW.png",
-          "mobileURL": "https://i.imgur.com/x6FpPXk.png",
-          "link": "https://www.huobi.com/en-us/v/register/double-invite/?inviter_id=11345710&invite_code=qy4m7223"
-        },
-        {
-          "desktopURL": "https://i.imgur.com/UwjefSu.png",
-          "mobileURL": "https://i.imgur.com/izyAz68.png",
-          "link": "https://quickswap.spritz.finance/signup?utm_source=QuickSwap&utm_medium=Banner"
-        },
-        {
-          "desktopURL": "https://i.imgur.com/xZeuJu4.png",
-          "mobileURL": "https://i.imgur.com/PQhv6R2.png",
-          "link": "https://quickswap.exchange/#/farm"
+          "desktopURL": "",
+          "mobileURL": "",
+          "link": ""
         }
       ],
       "analytics": [
         {
-          "desktopURL": "https://i.imgur.com/3AIZfTY.jpeg",
-          "mobileURL": "https://imgur.com/a/ZjLEq6Q",
-          "link": "https://versagames.io/quickswap-gaming-hub"
-        },
-        {
-          "desktopURL": "https://i.imgur.com/KcgisUn.png",
-          "mobileURL": "https://i.imgur.com/S9NQIM7.png",
-          "link": "https://quickswap.exchange/#/pools?currency0=ETH&currency1=0xc2A45FE7d40bCAc8369371B08419DDAFd3131b4a"
-        },
-        {
-          "desktopURL": "https://i.imgur.com/VWEhtK5.png",
-          "mobileURL": "https://i.imgur.com/izyAz68.png",
-          "link": "https://quickswap.spritz.finance/signup?utm_source=QuickSwap&utm_medium=Banner"
+          "desktopURL": "https://i.imgur.com/vQqvLgC.png",
+          "mobileURL": "https://i.imgur.com/Pct2Nzy.png",
+          "link": "https://perps.quickswap.exchange/#/trade"
         },
         {
           "desktopURL": "https://i.imgur.com/fdU2A0e.png",
